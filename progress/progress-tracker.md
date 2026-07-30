@@ -32,7 +32,7 @@ Update this every Sunday during your weekend review block. Keep entries short �
 
 |---|---|---|---|
 
-| 0 — Setup | 1 | 🔲 Not started | |
+| 0 — Setup | 1 | ✅ Completed | Repo, uv env, .gitignore, API keys (Gemini+Groq) confirmed working |
 
 | 1 — ML Foundations Refresh | 2–4 | 🔲 Not started | |
 
@@ -60,15 +60,12 @@ Update this every Sunday during your weekend review block. Keep entries short �
 
 \### Week 1
 
-\- \*\*Built:\*\*
-
-\- \*\*Learned:\*\*
-
-\- \*\*Stuck on:\*\*
-
-\- \*\*On pace? (Y/N):\*\*
-
-\- \*\*Next week's focus:\*\*
+### Week 1
+- **Built:** GitHub repo (ai-engineer-roadmap), uv environment, .gitignore, Gemini + Groq API test script — both confirmed working
+- **Learned:** API model names deprecate over time; use stable aliases (e.g. gemini-flash-latest) instead of pinning to a specific dated model
+- **Stuck on:** none
+- **On pace? (Y/N):** Y
+- **Next week's focus:** Start Phase 1 — ML foundations refresh (metrics, bias-variance, cross-validation) + Titanic/house-prices mini-project
 
 
 
@@ -133,6 +130,7 @@ Target: 8–12 quality applications/week once started.
 
 
 \---
+
 
 
 
